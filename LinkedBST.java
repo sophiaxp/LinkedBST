@@ -12,7 +12,7 @@ import static week11.LinkedBST.Direction.*;
  *  is initially constructed with no arguments, or if we remove the
  *  only element from a tree.
  *
- *  @author Michael Albert, Iain Hewson and Sophia 
+ *  @Sophia 
  */
 public class LinkedBST<T extends Comparable<T>> {
 
